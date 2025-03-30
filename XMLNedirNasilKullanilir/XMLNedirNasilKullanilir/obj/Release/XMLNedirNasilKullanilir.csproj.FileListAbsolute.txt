@@ -1,0 +1,7 @@
+C:\Users\okanb\Desktop\Repos\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\bin\Release\XMLNedirNasilKullanilir.exe.config
+C:\Users\okanb\Desktop\Repos\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\bin\Release\XMLNedirNasilKullanilir.exe
+C:\Users\okanb\Desktop\Repos\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\bin\Release\XMLNedirNasilKullanilir.pdb
+C:\Users\okanb\Desktop\Repos\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\obj\Release\XMLNedirNasilKullanilir.csproj.AssemblyReference.cache
+C:\Users\okanb\Desktop\Repos\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\obj\Release\XMLNedirNasilKullanilir.csproj.CoreCompileInputs.cache
+C:\Users\okanb\Desktop\Repos\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\obj\Release\XMLNedirNasilKullanilir.exe
+C:\Users\okanb\Desktop\Repos\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\XMLNedirNasilKullanilir\obj\Release\XMLNedirNasilKullanilir.pdb
